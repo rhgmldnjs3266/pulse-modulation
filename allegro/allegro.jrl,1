@@ -1,0 +1,18 @@
+\t (00:00:15) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:15)     Journal start - Tue Jul 30 15:26:19 2019
+\t (00:00:15)         Host=KHW User=user Pid=8088 CPUs=4
+\t (00:00:15) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -mpssession user C:\Users\user\Desktop\work\pulse_modulation\allegro\PULSE_MODULATION.brd
+\t (00:00:15) 
+   (00:00:15) Loading axlcore.cxt 
+\t (00:00:23) Opening existing design...
+\d (00:00:23) Design opened: C:/USERS/USER/DESKTOP/WORK/PULSE_MODULATION/allegro/PULSE_MODULATION.brd
+\i (00:00:23) trapsize 1716
+\i (00:00:23) trapsize 1756
+\i (00:00:23) trapsize 2852
+\i (00:00:23) trapsize 2729
+\i (00:00:24) generaledit 
+\i (00:00:27) open 
+\i (00:00:29) fillin "PULSE_MODULATION.brd"
+\t (00:00:29) Opening existing design...
+\i (00:00:29) trapsize 2729
+\t (00:00:29)     Journal end - Tue Jul 30 15:26:33 2019
